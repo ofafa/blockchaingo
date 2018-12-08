@@ -1,3 +1,3 @@
 # blockchaingo
-a very simple blockchain in go 
-L
+A very simple blockchain in go 
+Less than 200 lines of code
